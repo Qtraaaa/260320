@@ -1,0 +1,4835 @@
+{
+  "heroes": [
+    {
+      "name": "A-Bomb",
+      "alignment": "good",
+      "total_stats": 316.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Abe Sapien",
+      "alignment": "good",
+      "total_stats": 299.0,
+      "physical": 80.0,
+      "mentality": 13.3,
+      "energy": 6.7,
+      "power_count": 15
+    },
+    {
+      "name": "Abin Sur",
+      "alignment": "good",
+      "total_stats": 406.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Abomination",
+      "alignment": "bad",
+      "total_stats": 436.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Abraxas",
+      "alignment": "bad",
+      "total_stats": 526.0,
+      "physical": 42.9,
+      "mentality": 14.3,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Adam Monroe",
+      "alignment": "good",
+      "total_stats": 320.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Adam Strange",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 60.0,
+      "mentality": 10.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Agent Bob",
+      "alignment": "good",
+      "total_stats": 61.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Agent Zero",
+      "alignment": "good",
+      "total_stats": 388.0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 6
+    },
+    {
+      "name": "Air-Walker",
+      "alignment": "bad",
+      "total_stats": 460.0,
+      "physical": 40.0,
+      "mentality": 0.0,
+      "energy": 60.0,
+      "power_count": 5
+    },
+    {
+      "name": "Alan Scott",
+      "alignment": "good",
+      "total_stats": 386.0,
+      "physical": 11.1,
+      "mentality": 44.4,
+      "energy": 44.4,
+      "power_count": 9
+    },
+    {
+      "name": "Alex Woolsly",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Allan Quatermain",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Amazo",
+      "alignment": "bad",
+      "total_stats": 575.0,
+      "physical": 55.6,
+      "mentality": 11.1,
+      "energy": 33.3,
+      "power_count": 27
+    },
+    {
+      "name": "Ammo",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Ando Masahashi",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Angel",
+      "alignment": "good",
+      "total_stats": 245.0,
+      "physical": 83.3,
+      "mentality": 8.3,
+      "energy": 8.3,
+      "power_count": 12
+    },
+    {
+      "name": "Angel Salvadore",
+      "alignment": "good",
+      "total_stats": 210.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Angela",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Animal Man",
+      "alignment": "good",
+      "total_stats": 389.0,
+      "physical": 40.0,
+      "mentality": 40.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Annihilus",
+      "alignment": "bad",
+      "total_stats": 381.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Ant-Man",
+      "alignment": "good",
+      "total_stats": 225.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Ant-Man II",
+      "alignment": "good",
+      "total_stats": 184.0,
+      "physical": 71.4,
+      "mentality": 28.6,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Anti-Monitor",
+      "alignment": "bad",
+      "total_stats": 496.0,
+      "physical": 33.3,
+      "mentality": 13.3,
+      "energy": 53.3,
+      "power_count": 15
+    },
+    {
+      "name": "Anti-Spawn",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Anti-Venom",
+      "alignment": "",
+      "total_stats": 459.0,
+      "physical": 88.9,
+      "mentality": 11.1,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Apocalypse",
+      "alignment": "bad",
+      "total_stats": 493.0,
+      "physical": 56.2,
+      "mentality": 12.5,
+      "energy": 31.2,
+      "power_count": 16
+    },
+    {
+      "name": "Aquababy",
+      "alignment": "good",
+      "total_stats": 103.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Aqualad",
+      "alignment": "good",
+      "total_stats": 360.0,
+      "physical": 50.0,
+      "mentality": 10.0,
+      "energy": 40.0,
+      "power_count": 10
+    },
+    {
+      "name": "Aquaman",
+      "alignment": "good",
+      "total_stats": 418.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 21
+    },
+    {
+      "name": "Arachne",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Archangel",
+      "alignment": "good",
+      "total_stats": 268.0,
+      "physical": 85.7,
+      "mentality": 0.0,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Arclight",
+      "alignment": "bad",
+      "total_stats": 288.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Ares",
+      "alignment": "good",
+      "total_stats": 435.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Ariel",
+      "alignment": "good",
+      "total_stats": 186.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Armor",
+      "alignment": "good",
+      "total_stats": 314.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Astro Boy",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 16.7,
+      "energy": 33.3,
+      "power_count": 6
+    },
+    {
+      "name": "Atlas",
+      "alignment": "good",
+      "total_stats": 363.0,
+      "physical": 75.0,
+      "mentality": 12.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Atom",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Atom Girl",
+      "alignment": "good",
+      "total_stats": 179.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Atom II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Atom III",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Atom IV",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Aurora",
+      "alignment": "good",
+      "total_stats": 329.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Azazel",
+      "alignment": "bad",
+      "total_stats": 370.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Azrael",
+      "alignment": "good",
+      "total_stats": 233.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Aztar",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 37.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Bane",
+      "alignment": "bad",
+      "total_stats": 366.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Banshee",
+      "alignment": "good",
+      "total_stats": 290.0,
+      "physical": 25.0,
+      "mentality": 50.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Bantam",
+      "alignment": "good",
+      "total_stats": 232.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Batgirl IV",
+      "alignment": "good",
+      "total_stats": 306.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Batgirl VI",
+      "alignment": "good",
+      "total_stats": 238.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Batman",
+      "alignment": "good",
+      "total_stats": 324.0,
+      "physical": 85.7,
+      "mentality": 7.1,
+      "energy": 7.1,
+      "power_count": 14
+    },
+    {
+      "name": "Batman II",
+      "alignment": "good",
+      "total_stats": 296.0,
+      "physical": 87.5,
+      "mentality": 12.5,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Battlestar",
+      "alignment": "good",
+      "total_stats": 334.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Beak",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Beast",
+      "alignment": "good",
+      "total_stats": 346.0,
+      "physical": 91.7,
+      "mentality": 8.3,
+      "energy": 0.0,
+      "power_count": 12
+    },
+    {
+      "name": "Beast Boy",
+      "alignment": "good",
+      "total_stats": 317.0,
+      "physical": 80.0,
+      "mentality": 10.0,
+      "energy": 10.0,
+      "power_count": 10
+    },
+    {
+      "name": "Ben 10",
+      "alignment": "good",
+      "total_stats": 165.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Beta Ray Bill",
+      "alignment": "good",
+      "total_stats": 457.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Beyonder",
+      "alignment": "good",
+      "total_stats": 467.0,
+      "physical": 33.3,
+      "mentality": 22.2,
+      "energy": 44.4,
+      "power_count": 9
+    },
+    {
+      "name": "Big Barda",
+      "alignment": "good",
+      "total_stats": 375.0,
+      "physical": 87.5,
+      "mentality": 0.0,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Big Daddy",
+      "alignment": "good",
+      "total_stats": 178.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Big Man",
+      "alignment": "bad",
+      "total_stats": 227.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Bill Harken",
+      "alignment": "good",
+      "total_stats": 255.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Billy Kincaid",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Binary",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 40.0,
+      "mentality": 0.0,
+      "energy": 60.0,
+      "power_count": 5
+    },
+    {
+      "name": "Bird-Brain",
+      "alignment": "good",
+      "total_stats": 161.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Bird-Man",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Bird-Man II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 2
+    },
+    {
+      "name": "Birdman",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 12.5,
+      "energy": 37.5,
+      "power_count": 8
+    },
+    {
+      "name": "Bishop",
+      "alignment": "good",
+      "total_stats": 325.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Bizarro",
+      "alignment": "neutral",
+      "total_stats": 550.0,
+      "physical": 72.2,
+      "mentality": 5.6,
+      "energy": 22.2,
+      "power_count": 18
+    },
+    {
+      "name": "Black Abbott",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 80.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Black Adam",
+      "alignment": "bad",
+      "total_stats": 525.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 12
+    },
+    {
+      "name": "Black Bolt",
+      "alignment": "good",
+      "total_stats": 482.0,
+      "physical": 63.6,
+      "mentality": 9.1,
+      "energy": 27.3,
+      "power_count": 11
+    },
+    {
+      "name": "Black Cat",
+      "alignment": "good",
+      "total_stats": 227.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Black Knight III",
+      "alignment": "good",
+      "total_stats": 264.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Black Lightning",
+      "alignment": "good",
+      "total_stats": 287.0,
+      "physical": 16.7,
+      "mentality": 0.0,
+      "energy": 83.3,
+      "power_count": 6
+    },
+    {
+      "name": "Black Mamba",
+      "alignment": "bad",
+      "total_stats": 305.0,
+      "physical": 0.0,
+      "mentality": 66.7,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Black Panther",
+      "alignment": "good",
+      "total_stats": 335.0,
+      "physical": 90.0,
+      "mentality": 10.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Black Widow",
+      "alignment": "good",
+      "total_stats": 279.0,
+      "physical": 88.9,
+      "mentality": 11.1,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Blackout",
+      "alignment": "bad",
+      "total_stats": 323.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Blackwing",
+      "alignment": "bad",
+      "total_stats": 191.0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Blackwulf",
+      "alignment": "",
+      "total_stats": 200.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Blade",
+      "alignment": "good",
+      "total_stats": 302.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Bling!",
+      "alignment": "good",
+      "total_stats": 265.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Blink",
+      "alignment": "good",
+      "total_stats": 225.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Blizzard",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Blizzard II",
+      "alignment": "bad",
+      "total_stats": 220.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Blob",
+      "alignment": "bad",
+      "total_stats": 309.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Bloodaxe",
+      "alignment": "bad",
+      "total_stats": 424.0,
+      "physical": 70.0,
+      "mentality": 0.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Bloodhawk",
+      "alignment": "good",
+      "total_stats": 320.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Bloodwraith",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 57.1,
+      "mentality": 14.3,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Blue Beetle",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Blue Beetle II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Blue Beetle III",
+      "alignment": "good",
+      "total_stats": 349.0,
+      "physical": 45.5,
+      "mentality": 0.0,
+      "energy": 54.5,
+      "power_count": 11
+    },
+    {
+      "name": "Bomb Queen",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Booster Gold",
+      "alignment": "good",
+      "total_stats": 356.0,
+      "physical": 61.5,
+      "mentality": 15.4,
+      "energy": 23.1,
+      "power_count": 13
+    },
+    {
+      "name": "Box IV",
+      "alignment": "good",
+      "total_stats": 243.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Brainiac",
+      "alignment": "bad",
+      "total_stats": 416.0,
+      "physical": 33.3,
+      "mentality": 44.4,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Brainiac 5",
+      "alignment": "good",
+      "total_stats": 253.0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Brother Voodoo",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Bullseye",
+      "alignment": "bad",
+      "total_stats": 246.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Bumblebee",
+      "alignment": "good",
+      "total_stats": 206.0,
+      "physical": 44.4,
+      "mentality": 11.1,
+      "energy": 44.4,
+      "power_count": 9
+    },
+    {
+      "name": "Bumbleboy",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Bushido",
+      "alignment": "good",
+      "total_stats": 155.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Cable",
+      "alignment": "good",
+      "total_stats": 395.0,
+      "physical": 47.6,
+      "mentality": 42.9,
+      "energy": 9.5,
+      "power_count": 21
+    },
+    {
+      "name": "Callisto",
+      "alignment": "bad",
+      "total_stats": 311.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Cameron Hicks",
+      "alignment": "good",
+      "total_stats": 232.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Cannonball",
+      "alignment": "good",
+      "total_stats": 379.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 3
+    },
+    {
+      "name": "Captain America",
+      "alignment": "good",
+      "total_stats": 319.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Captain Atom",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 20
+    },
+    {
+      "name": "Captain Britain",
+      "alignment": "good",
+      "total_stats": 373.0,
+      "physical": 87.5,
+      "mentality": 0.0,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Captain Epic",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Captain Marvel",
+      "alignment": "good",
+      "total_stats": 480.0,
+      "physical": 43.3,
+      "mentality": 26.7,
+      "energy": 30.0,
+      "power_count": 30
+    },
+    {
+      "name": "Captain Marvel II",
+      "alignment": "good",
+      "total_stats": 363.0,
+      "physical": 33.3,
+      "mentality": 66.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Captain Planet",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 42.1,
+      "mentality": 15.8,
+      "energy": 42.1,
+      "power_count": 19
+    },
+    {
+      "name": "Captain Universe",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 40.0,
+      "mentality": 0.0,
+      "energy": 60.0,
+      "power_count": 10
+    },
+    {
+      "name": "Carnage",
+      "alignment": "bad",
+      "total_stats": 451.0,
+      "physical": 90.9,
+      "mentality": 9.1,
+      "energy": 0.0,
+      "power_count": 11
+    },
+    {
+      "name": "Cat",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Catwoman",
+      "alignment": "good",
+      "total_stats": 246.0,
+      "physical": 87.5,
+      "mentality": 12.5,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Century",
+      "alignment": "good",
+      "total_stats": 459.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Cerebra",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Chamber",
+      "alignment": "good",
+      "total_stats": 281.0,
+      "physical": 0.0,
+      "mentality": 66.7,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Chameleon",
+      "alignment": "bad",
+      "total_stats": 194.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Changeling",
+      "alignment": "bad",
+      "total_stats": 266.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Cheetah II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Cheetah III",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 92.3,
+      "mentality": 7.7,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "Chromos",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 45.5,
+      "mentality": 18.2,
+      "energy": 36.4,
+      "power_count": 11
+    },
+    {
+      "name": "Chuck Norris",
+      "alignment": "good",
+      "total_stats": 374.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Claire Bennet",
+      "alignment": "good",
+      "total_stats": 260.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Cloak",
+      "alignment": "good",
+      "total_stats": 314.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Cogliostro",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Colossus",
+      "alignment": "good",
+      "total_stats": 405.0,
+      "physical": 70.0,
+      "mentality": 0.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Crimson Crusader",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Crystal",
+      "alignment": "good",
+      "total_stats": 218.0,
+      "physical": 42.9,
+      "mentality": 0.0,
+      "energy": 57.1,
+      "power_count": 7
+    },
+    {
+      "name": "Curse",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Cy-Gor",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Cyborg",
+      "alignment": "good",
+      "total_stats": 391.0,
+      "physical": 77.8,
+      "mentality": 0.0,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Cyborg Superman",
+      "alignment": "bad",
+      "total_stats": 540.0,
+      "physical": 54.5,
+      "mentality": 0.0,
+      "energy": 45.5,
+      "power_count": 11
+    },
+    {
+      "name": "Cyclops",
+      "alignment": "good",
+      "total_stats": 306.0,
+      "physical": 28.6,
+      "mentality": 14.3,
+      "energy": 57.1,
+      "power_count": 7
+    },
+    {
+      "name": "DL Hawkins",
+      "alignment": "good",
+      "total_stats": 234.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Dagger",
+      "alignment": "good",
+      "total_stats": 272.0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Daphne Powell",
+      "alignment": "good",
+      "total_stats": 132.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Daredevil",
+      "alignment": "good",
+      "total_stats": 295.0,
+      "physical": 69.2,
+      "mentality": 30.8,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "Darkhawk",
+      "alignment": "good",
+      "total_stats": 323.0,
+      "physical": 40.0,
+      "mentality": 0.0,
+      "energy": 60.0,
+      "power_count": 5
+    },
+    {
+      "name": "Darkman",
+      "alignment": "good",
+      "total_stats": 237.0,
+      "physical": 66.7,
+      "mentality": 33.3,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Darkseid",
+      "alignment": "bad",
+      "total_stats": 506.0,
+      "physical": 47.1,
+      "mentality": 23.5,
+      "energy": 29.4,
+      "power_count": 17
+    },
+    {
+      "name": "Darkstar",
+      "alignment": "good",
+      "total_stats": 239.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 4
+    },
+    {
+      "name": "Dash",
+      "alignment": "good",
+      "total_stats": 178.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Dazzler",
+      "alignment": "good",
+      "total_stats": 270.0,
+      "physical": 23.1,
+      "mentality": 15.4,
+      "energy": 61.5,
+      "power_count": 13
+    },
+    {
+      "name": "Deadman",
+      "alignment": "good",
+      "total_stats": 335.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Deadpool",
+      "alignment": "neutral",
+      "total_stats": 395.0,
+      "physical": 81.8,
+      "mentality": 18.2,
+      "energy": 0.0,
+      "power_count": 11
+    },
+    {
+      "name": "Deadshot",
+      "alignment": "bad",
+      "total_stats": 238.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Deathlok",
+      "alignment": "good",
+      "total_stats": 301.0,
+      "physical": 71.4,
+      "mentality": 28.6,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Deathstroke",
+      "alignment": "neutral",
+      "total_stats": 366.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Demogoblin",
+      "alignment": "bad",
+      "total_stats": 289.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Destroyer",
+      "alignment": "bad",
+      "total_stats": 461.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Doc Samson",
+      "alignment": "good",
+      "total_stats": 374.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Doctor Doom",
+      "alignment": "bad",
+      "total_stats": 429.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Doctor Doom II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Doctor Fate",
+      "alignment": "good",
+      "total_stats": 352.0,
+      "physical": 38.5,
+      "mentality": 30.8,
+      "energy": 30.8,
+      "power_count": 13
+    },
+    {
+      "name": "Doctor Octopus",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 75.0,
+      "mentality": 12.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Doctor Strange",
+      "alignment": "good",
+      "total_stats": 366.0,
+      "physical": 33.3,
+      "mentality": 44.4,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Domino",
+      "alignment": "good",
+      "total_stats": 251.0,
+      "physical": 75.0,
+      "mentality": 25.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Donna Troy",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Doomsday",
+      "alignment": "bad",
+      "total_stats": 545.0,
+      "physical": 68.4,
+      "mentality": 0.0,
+      "energy": 31.6,
+      "power_count": 19
+    },
+    {
+      "name": "Doppelganger",
+      "alignment": "bad",
+      "total_stats": 372.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Dormammu",
+      "alignment": "bad",
+      "total_stats": 546.0,
+      "physical": 50.0,
+      "mentality": 16.7,
+      "energy": 33.3,
+      "power_count": 6
+    },
+    {
+      "name": "Dr Manhattan",
+      "alignment": "good",
+      "total_stats": 399.0,
+      "physical": 47.4,
+      "mentality": 21.1,
+      "energy": 31.6,
+      "power_count": 19
+    },
+    {
+      "name": "Ego",
+      "alignment": "bad",
+      "total_stats": 449.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Elastigirl",
+      "alignment": "good",
+      "total_stats": 206.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Electro",
+      "alignment": "bad",
+      "total_stats": 316.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Elektra",
+      "alignment": "good",
+      "total_stats": 291.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Elle Bishop",
+      "alignment": "bad",
+      "total_stats": 217.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Elongated Man",
+      "alignment": "good",
+      "total_stats": 248.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Emma Frost",
+      "alignment": "good",
+      "total_stats": 387.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Energy",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 3
+    },
+    {
+      "name": "Evilhawk",
+      "alignment": "bad",
+      "total_stats": 327.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Exodus",
+      "alignment": "bad",
+      "total_stats": 370.0,
+      "physical": 14.3,
+      "mentality": 57.1,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Fabian Cortez",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Falcon",
+      "alignment": "good",
+      "total_stats": 215.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Fallen One II",
+      "alignment": "bad",
+      "total_stats": 512.0,
+      "physical": 40.0,
+      "mentality": 13.3,
+      "energy": 46.7,
+      "power_count": 15
+    },
+    {
+      "name": "Faora",
+      "alignment": "bad",
+      "total_stats": 535.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 14
+    },
+    {
+      "name": "Feral",
+      "alignment": "good",
+      "total_stats": 229.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Fighting Spirit",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Fin Fang Foom",
+      "alignment": "good",
+      "total_stats": 392.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Firebird",
+      "alignment": "good",
+      "total_stats": 232.0,
+      "physical": 25.0,
+      "mentality": 0.0,
+      "energy": 75.0,
+      "power_count": 8
+    },
+    {
+      "name": "Firelord",
+      "alignment": "good",
+      "total_stats": 342.0,
+      "physical": 28.6,
+      "mentality": 0.0,
+      "energy": 71.4,
+      "power_count": 7
+    },
+    {
+      "name": "Firestar",
+      "alignment": "good",
+      "total_stats": 270.0,
+      "physical": 16.7,
+      "mentality": 0.0,
+      "energy": 83.3,
+      "power_count": 6
+    },
+    {
+      "name": "Firestorm",
+      "alignment": "good",
+      "total_stats": 359.0,
+      "physical": 37.5,
+      "mentality": 6.2,
+      "energy": 56.2,
+      "power_count": 16
+    },
+    {
+      "name": "Flash Gordon",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Flash II",
+      "alignment": "good",
+      "total_stats": 331.0,
+      "physical": 53.8,
+      "mentality": 0.0,
+      "energy": 46.2,
+      "power_count": 13
+    },
+    {
+      "name": "Flash III",
+      "alignment": "good",
+      "total_stats": 348.0,
+      "physical": 63.6,
+      "mentality": 0.0,
+      "energy": 36.4,
+      "power_count": 11
+    },
+    {
+      "name": "Flash IV",
+      "alignment": "good",
+      "total_stats": 312.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Forge",
+      "alignment": "good",
+      "total_stats": 173.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Franklin Richards",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 43.8,
+      "mentality": 37.5,
+      "energy": 18.8,
+      "power_count": 16
+    },
+    {
+      "name": "Frenzy",
+      "alignment": "bad",
+      "total_stats": 341.0,
+      "physical": 71.4,
+      "mentality": 0.0,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Frigga",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Galactus",
+      "alignment": "neutral",
+      "total_stats": 553.0,
+      "physical": 44.4,
+      "mentality": 16.7,
+      "energy": 38.9,
+      "power_count": 18
+    },
+    {
+      "name": "Gambit",
+      "alignment": "good",
+      "total_stats": 263.0,
+      "physical": 25.0,
+      "mentality": 50.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Garbage Man",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Gary Bell",
+      "alignment": "good",
+      "total_stats": 150.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "General Zod",
+      "alignment": "bad",
+      "total_stats": 579.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 14
+    },
+    {
+      "name": "Genesis",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Ghost Rider",
+      "alignment": "good",
+      "total_stats": 360.0,
+      "physical": 64.7,
+      "mentality": 5.9,
+      "energy": 29.4,
+      "power_count": 17
+    },
+    {
+      "name": "Ghost Rider II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Giganta",
+      "alignment": "bad",
+      "total_stats": 352.0,
+      "physical": 66.7,
+      "mentality": 33.3,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Goblin Queen",
+      "alignment": "bad",
+      "total_stats": 257.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Gog",
+      "alignment": "bad",
+      "total_stats": 298.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Goku",
+      "alignment": "good",
+      "total_stats": 521.0,
+      "physical": 50.0,
+      "mentality": 16.7,
+      "energy": 33.3,
+      "power_count": 18
+    },
+    {
+      "name": "Goliath IV",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Granny Goodness",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Gravity",
+      "alignment": "good",
+      "total_stats": 257.0,
+      "physical": 25.0,
+      "mentality": 0.0,
+      "energy": 75.0,
+      "power_count": 4
+    },
+    {
+      "name": "Green Arrow",
+      "alignment": "good",
+      "total_stats": 266.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Green Goblin",
+      "alignment": "bad",
+      "total_stats": 272.0,
+      "physical": 87.5,
+      "mentality": 12.5,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Green Goblin II",
+      "alignment": "bad",
+      "total_stats": 281.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Green Goblin III",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Green Goblin IV",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Groot",
+      "alignment": "good",
+      "total_stats": 419.0,
+      "physical": 75.0,
+      "mentality": 12.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Guy Gardner",
+      "alignment": "good",
+      "total_stats": 370.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 10
+    },
+    {
+      "name": "Hal Jordan",
+      "alignment": "good",
+      "total_stats": 426.0,
+      "physical": 53.8,
+      "mentality": 0.0,
+      "energy": 46.2,
+      "power_count": 13
+    },
+    {
+      "name": "Hancock",
+      "alignment": "good",
+      "total_stats": 398.0,
+      "physical": 87.5,
+      "mentality": 0.0,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Harley Quinn",
+      "alignment": "bad",
+      "total_stats": 268.0,
+      "physical": 88.9,
+      "mentality": 11.1,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Havok",
+      "alignment": "good",
+      "total_stats": 274.0,
+      "physical": 14.3,
+      "mentality": 0.0,
+      "energy": 85.7,
+      "power_count": 7
+    },
+    {
+      "name": "Hawk",
+      "alignment": "good",
+      "total_stats": 284.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Hawkeye",
+      "alignment": "good",
+      "total_stats": 205.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Hawkeye II",
+      "alignment": "good",
+      "total_stats": 148.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Hawkgirl",
+      "alignment": "good",
+      "total_stats": 376.0,
+      "physical": 71.4,
+      "mentality": 0.0,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Hawkman",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Hellboy",
+      "alignment": "good",
+      "total_stats": 329.0,
+      "physical": 84.6,
+      "mentality": 0.0,
+      "energy": 15.4,
+      "power_count": 13
+    },
+    {
+      "name": "Hellcat",
+      "alignment": "good",
+      "total_stats": 213.0,
+      "physical": 57.1,
+      "mentality": 42.9,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Hellstorm",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 25.0,
+      "mentality": 0.0,
+      "energy": 75.0,
+      "power_count": 4
+    },
+    {
+      "name": "Hercules",
+      "alignment": "good",
+      "total_stats": 461.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Hiro Nakamura",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Hit-Girl",
+      "alignment": "good",
+      "total_stats": 132.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Hobgoblin",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Hollow",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 33.3,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Hope Summers",
+      "alignment": "good",
+      "total_stats": 281.0,
+      "physical": 16.7,
+      "mentality": 33.3,
+      "energy": 50.0,
+      "power_count": 6
+    },
+    {
+      "name": "Hulk",
+      "alignment": "good",
+      "total_stats": 461.0,
+      "physical": 66.7,
+      "mentality": 5.6,
+      "energy": 27.8,
+      "power_count": 18
+    },
+    {
+      "name": "Human Torch",
+      "alignment": "good",
+      "total_stats": 315.0,
+      "physical": 41.7,
+      "mentality": 0.0,
+      "energy": 58.3,
+      "power_count": 12
+    },
+    {
+      "name": "Huntress",
+      "alignment": "good",
+      "total_stats": 259.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Husk",
+      "alignment": "good",
+      "total_stats": 356.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Hydro-Man",
+      "alignment": "bad",
+      "total_stats": 272.0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Hyperion",
+      "alignment": "good",
+      "total_stats": 458.0,
+      "physical": 76.9,
+      "mentality": 7.7,
+      "energy": 15.4,
+      "power_count": 13
+    },
+    {
+      "name": "Iceman",
+      "alignment": "good",
+      "total_stats": 412.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 14
+    },
+    {
+      "name": "Impulse",
+      "alignment": "good",
+      "total_stats": 343.0,
+      "physical": 70.0,
+      "mentality": 10.0,
+      "energy": 20.0,
+      "power_count": 10
+    },
+    {
+      "name": "Ink",
+      "alignment": "good",
+      "total_stats": 239.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Invisible Woman",
+      "alignment": "good",
+      "total_stats": 306.0,
+      "physical": 25.0,
+      "mentality": 25.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Iron Fist",
+      "alignment": "good",
+      "total_stats": 318.0,
+      "physical": 60.0,
+      "mentality": 20.0,
+      "energy": 20.0,
+      "power_count": 20
+    },
+    {
+      "name": "Iron Man",
+      "alignment": "good",
+      "total_stats": 492.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 14
+    },
+    {
+      "name": "Iron Monger",
+      "alignment": "bad",
+      "total_stats": 379.0,
+      "physical": 40.0,
+      "mentality": 20.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Isis",
+      "alignment": "good",
+      "total_stats": 343.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "JJ Powell",
+      "alignment": "good",
+      "total_stats": 140.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Jack of Hearts",
+      "alignment": "good",
+      "total_stats": 348.0,
+      "physical": 54.5,
+      "mentality": 9.1,
+      "energy": 36.4,
+      "power_count": 11
+    },
+    {
+      "name": "Jean Grey",
+      "alignment": "good",
+      "total_stats": 517.0,
+      "physical": 0.0,
+      "mentality": 66.7,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Jennifer Kale",
+      "alignment": "good",
+      "total_stats": 295.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Jim Powell",
+      "alignment": "good",
+      "total_stats": 222.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Johann Krauss",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "John Stewart",
+      "alignment": "good",
+      "total_stats": 369.0,
+      "physical": 33.3,
+      "mentality": 8.3,
+      "energy": 58.3,
+      "power_count": 12
+    },
+    {
+      "name": "John Wraith",
+      "alignment": "good",
+      "total_stats": 295.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Joker",
+      "alignment": "bad",
+      "total_stats": 290.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Jolt",
+      "alignment": "good",
+      "total_stats": 207.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Jubilee",
+      "alignment": "good",
+      "total_stats": 262.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 3
+    },
+    {
+      "name": "Juggernaut",
+      "alignment": "neutral",
+      "total_stats": 430.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Junkpile",
+      "alignment": "bad",
+      "total_stats": 296.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Justice",
+      "alignment": "good",
+      "total_stats": 248.0,
+      "physical": 0.0,
+      "mentality": 33.3,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Kang",
+      "alignment": "bad",
+      "total_stats": 417.0,
+      "physical": 42.9,
+      "mentality": 0.0,
+      "energy": 57.1,
+      "power_count": 7
+    },
+    {
+      "name": "Kevin 11",
+      "alignment": "bad",
+      "total_stats": 198.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Kick-Ass",
+      "alignment": "good",
+      "total_stats": 134.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Kid Flash",
+      "alignment": "good",
+      "total_stats": 206.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Killer Croc",
+      "alignment": "bad",
+      "total_stats": 287.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Kilowog",
+      "alignment": "good",
+      "total_stats": 446.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Klaw",
+      "alignment": "bad",
+      "total_stats": 356.0,
+      "physical": 42.9,
+      "mentality": 28.6,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Kool-Aid Man",
+      "alignment": "good",
+      "total_stats": 85.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Kraven II",
+      "alignment": "bad",
+      "total_stats": 256.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Kraven the Hunter",
+      "alignment": "bad",
+      "total_stats": 283.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Krypto",
+      "alignment": "good",
+      "total_stats": 391.0,
+      "physical": 87.5,
+      "mentality": 0.0,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Lady Bullseye",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Lady Deathstrike",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 88.9,
+      "mentality": 11.1,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Leader",
+      "alignment": "bad",
+      "total_stats": 236.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Leech",
+      "alignment": "good",
+      "total_stats": 132.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Lex Luthor",
+      "alignment": "bad",
+      "total_stats": 174.0,
+      "physical": 33.3,
+      "mentality": 11.1,
+      "energy": 55.6,
+      "power_count": 9
+    },
+    {
+      "name": "Light Lass",
+      "alignment": "good",
+      "total_stats": 218.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 3
+    },
+    {
+      "name": "Lightning Lad",
+      "alignment": "good",
+      "total_stats": 201.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Lightning Lord",
+      "alignment": "bad",
+      "total_stats": 227.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 2
+    },
+    {
+      "name": "Living Brain",
+      "alignment": "bad",
+      "total_stats": 278.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Liz Sherman",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Lizard",
+      "alignment": "bad",
+      "total_stats": 282.0,
+      "physical": 91.7,
+      "mentality": 8.3,
+      "energy": 0.0,
+      "power_count": 12
+    },
+    {
+      "name": "Lobo",
+      "alignment": "bad",
+      "total_stats": 486.0,
+      "physical": 66.7,
+      "mentality": 22.2,
+      "energy": 11.1,
+      "power_count": 9
+    },
+    {
+      "name": "Loki",
+      "alignment": "bad",
+      "total_stats": 418.0,
+      "physical": 55.6,
+      "mentality": 22.2,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Longshot",
+      "alignment": "good",
+      "total_stats": 238.0,
+      "physical": 60.0,
+      "mentality": 40.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Luke Cage",
+      "alignment": "good",
+      "total_stats": 316.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Luke Campbell",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Luna",
+      "alignment": "good",
+      "total_stats": 208.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Lyja",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Mach-IV",
+      "alignment": "bad",
+      "total_stats": 371.0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 4
+    },
+    {
+      "name": "Machine Man",
+      "alignment": "good",
+      "total_stats": 329.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Magneto",
+      "alignment": "bad",
+      "total_stats": 450.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Magog",
+      "alignment": "good",
+      "total_stats": 323.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Magus",
+      "alignment": "bad",
+      "total_stats": 531.0,
+      "physical": 33.3,
+      "mentality": 16.7,
+      "energy": 50.0,
+      "power_count": 6
+    },
+    {
+      "name": "Man-Bat",
+      "alignment": "neutral",
+      "total_stats": 239.0,
+      "physical": 77.8,
+      "mentality": 11.1,
+      "energy": 11.1,
+      "power_count": 9
+    },
+    {
+      "name": "Man-Thing",
+      "alignment": "good",
+      "total_stats": 328.0,
+      "physical": 85.7,
+      "mentality": 14.3,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Man-Wolf",
+      "alignment": "good",
+      "total_stats": 292.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Mandarin",
+      "alignment": "bad",
+      "total_stats": 373.0,
+      "physical": 27.3,
+      "mentality": 18.2,
+      "energy": 54.5,
+      "power_count": 11
+    },
+    {
+      "name": "Martian Manhunter",
+      "alignment": "good",
+      "total_stats": 581.0,
+      "physical": 61.9,
+      "mentality": 28.6,
+      "energy": 9.5,
+      "power_count": 21
+    },
+    {
+      "name": "Marvel Girl",
+      "alignment": "good",
+      "total_stats": 417.0,
+      "physical": 0.0,
+      "mentality": 28.6,
+      "energy": 71.4,
+      "power_count": 7
+    },
+    {
+      "name": "Master Brood",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Master Chief",
+      "alignment": "good",
+      "total_stats": 425.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Match",
+      "alignment": "bad",
+      "total_stats": 498.0,
+      "physical": 63.6,
+      "mentality": 9.1,
+      "energy": 27.3,
+      "power_count": 11
+    },
+    {
+      "name": "Matt Parkman",
+      "alignment": "good",
+      "total_stats": 214.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Maverick",
+      "alignment": "good",
+      "total_stats": 272.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Maxima",
+      "alignment": "bad",
+      "total_stats": 398.0,
+      "physical": 42.9,
+      "mentality": 42.9,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Maya Herrera",
+      "alignment": "good",
+      "total_stats": 160.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Medusa",
+      "alignment": "good",
+      "total_stats": 305.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Meltdown",
+      "alignment": "good",
+      "total_stats": 224.0,
+      "physical": 16.7,
+      "mentality": 0.0,
+      "energy": 83.3,
+      "power_count": 6
+    },
+    {
+      "name": "Mephisto",
+      "alignment": "bad",
+      "total_stats": 445.0,
+      "physical": 66.7,
+      "mentality": 11.1,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Mera",
+      "alignment": "good",
+      "total_stats": 367.0,
+      "physical": 72.7,
+      "mentality": 9.1,
+      "energy": 18.2,
+      "power_count": 11
+    },
+    {
+      "name": "Metallo",
+      "alignment": "bad",
+      "total_stats": 384.0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Metamorpho",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Metron",
+      "alignment": "good",
+      "total_stats": 298.0,
+      "physical": 33.3,
+      "mentality": 33.3,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Micah Sanders",
+      "alignment": "good",
+      "total_stats": 168.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Micro Lad",
+      "alignment": "good",
+      "total_stats": 197.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Mimic",
+      "alignment": "good",
+      "total_stats": 354.0,
+      "physical": 44.4,
+      "mentality": 22.2,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Minna Murray",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Misfit",
+      "alignment": "good",
+      "total_stats": 302.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Miss Martian",
+      "alignment": "good",
+      "total_stats": 451.0,
+      "physical": 50.0,
+      "mentality": 20.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Mister Fantastic",
+      "alignment": "good",
+      "total_stats": 294.0,
+      "physical": 66.7,
+      "mentality": 33.3,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Mister Freeze",
+      "alignment": "bad",
+      "total_stats": 254.0,
+      "physical": 57.1,
+      "mentality": 14.3,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Mister Mxyzptlk",
+      "alignment": "bad",
+      "total_stats": 277.0,
+      "physical": 44.4,
+      "mentality": 11.1,
+      "energy": 44.4,
+      "power_count": 18
+    },
+    {
+      "name": "Mister Sinister",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 27.8,
+      "energy": 22.2,
+      "power_count": 18
+    },
+    {
+      "name": "Mohinder Suresh",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Molten Man",
+      "alignment": "bad",
+      "total_stats": 339.0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Monarch",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Monica Dawson",
+      "alignment": "good",
+      "total_stats": 247.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Moon Knight",
+      "alignment": "good",
+      "total_stats": 254.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Moonstone",
+      "alignment": "good",
+      "total_stats": 381.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Morlun",
+      "alignment": "bad",
+      "total_stats": 315.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Moses Magnum",
+      "alignment": "bad",
+      "total_stats": 268.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Mr Incredible",
+      "alignment": "good",
+      "total_stats": 308.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Ms Marvel II",
+      "alignment": "good",
+      "total_stats": 275.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Multiple Man",
+      "alignment": "good",
+      "total_stats": 257.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Mystique",
+      "alignment": "bad",
+      "total_stats": 306.0,
+      "physical": 81.8,
+      "mentality": 18.2,
+      "energy": 0.0,
+      "power_count": 11
+    },
+    {
+      "name": "Namor",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 13.3,
+      "energy": 20.0,
+      "power_count": 15
+    },
+    {
+      "name": "Namora",
+      "alignment": "good",
+      "total_stats": 324.0,
+      "physical": 77.8,
+      "mentality": 11.1,
+      "energy": 11.1,
+      "power_count": 9
+    },
+    {
+      "name": "Namorita",
+      "alignment": "good",
+      "total_stats": 339.0,
+      "physical": 87.5,
+      "mentality": 0.0,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Naruto Uzumaki",
+      "alignment": "good",
+      "total_stats": 442.0,
+      "physical": 60.0,
+      "mentality": 6.7,
+      "energy": 33.3,
+      "power_count": 15
+    },
+    {
+      "name": "Nathan Petrelli",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Nick Fury",
+      "alignment": "good",
+      "total_stats": 276.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Nightcrawler",
+      "alignment": "good",
+      "total_stats": 253.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Nightwing",
+      "alignment": "good",
+      "total_stats": 296.0,
+      "physical": 87.5,
+      "mentality": 12.5,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "Niki Sanders",
+      "alignment": "good",
+      "total_stats": 271.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Nina Theroux",
+      "alignment": "good",
+      "total_stats": 160.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Northstar",
+      "alignment": "good",
+      "total_stats": 347.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Nova",
+      "alignment": "good",
+      "total_stats": 538.0,
+      "physical": 45.0,
+      "mentality": 0.0,
+      "energy": 55.0,
+      "power_count": 20
+    },
+    {
+      "name": "Offspring",
+      "alignment": "good",
+      "total_stats": 350.0,
+      "physical": 55.6,
+      "mentality": 22.2,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Omniscient",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Onslaught",
+      "alignment": "bad",
+      "total_stats": 505.0,
+      "physical": 25.0,
+      "mentality": 58.3,
+      "energy": 16.7,
+      "power_count": 12
+    },
+    {
+      "name": "Osiris",
+      "alignment": "good",
+      "total_stats": 422.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Overtkill",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Penance II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Penguin",
+      "alignment": "bad",
+      "total_stats": 200.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Peter Petrelli",
+      "alignment": "good",
+      "total_stats": 267.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Phantom",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Phantom Girl",
+      "alignment": "good",
+      "total_stats": 194.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Phoenix",
+      "alignment": "good",
+      "total_stats": 517.0,
+      "physical": 15.4,
+      "mentality": 46.2,
+      "energy": 38.5,
+      "power_count": 13
+    },
+    {
+      "name": "Plastic Man",
+      "alignment": "good",
+      "total_stats": 392.0,
+      "physical": 88.9,
+      "mentality": 11.1,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Plastique",
+      "alignment": "bad",
+      "total_stats": 213.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Poison Ivy",
+      "alignment": "bad",
+      "total_stats": 227.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Power Girl",
+      "alignment": "good",
+      "total_stats": 490.0,
+      "physical": 73.3,
+      "mentality": 13.3,
+      "energy": 13.3,
+      "power_count": 15
+    },
+    {
+      "name": "Professor X",
+      "alignment": "good",
+      "total_stats": 256.0,
+      "physical": 0.0,
+      "mentality": 83.3,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Proto-Goblin",
+      "alignment": "bad",
+      "total_stats": 222.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Psylocke",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 30.0,
+      "mentality": 70.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Punisher",
+      "alignment": "good",
+      "total_stats": 239.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Pyro",
+      "alignment": "bad",
+      "total_stats": 152.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Quantum",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Question",
+      "alignment": "good",
+      "total_stats": 257.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Quicksilver",
+      "alignment": "good",
+      "total_stats": 364.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Quill",
+      "alignment": "good",
+      "total_stats": 111.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Ra's Al Ghul",
+      "alignment": "bad",
+      "total_stats": 329.0,
+      "physical": 85.7,
+      "mentality": 14.3,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Rachel Pirzad",
+      "alignment": "good",
+      "total_stats": 147.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Raven",
+      "alignment": "neutral",
+      "total_stats": 261.0,
+      "physical": 0.0,
+      "mentality": 66.7,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Razor-Fist II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Red Arrow",
+      "alignment": "good",
+      "total_stats": 228.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Red Hood",
+      "alignment": "neutral",
+      "total_stats": 257.0,
+      "physical": 85.7,
+      "mentality": 14.3,
+      "energy": 0.0,
+      "power_count": 7
+    },
+    {
+      "name": "Red Hulk",
+      "alignment": "good",
+      "total_stats": 414.0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 10
+    },
+    {
+      "name": "Red Mist",
+      "alignment": "bad",
+      "total_stats": 148.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Red Robin",
+      "alignment": "good",
+      "total_stats": 260.0,
+      "physical": 83.3,
+      "mentality": 16.7,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Red Skull",
+      "alignment": "bad",
+      "total_stats": 210.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Red Tornado",
+      "alignment": "good",
+      "total_stats": 372.0,
+      "physical": 50.0,
+      "mentality": 12.5,
+      "energy": 37.5,
+      "power_count": 8
+    },
+    {
+      "name": "Redeemer II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Redeemer III",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 5
+    },
+    {
+      "name": "Rhino",
+      "alignment": "bad",
+      "total_stats": 360.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Rick Flag",
+      "alignment": "bad",
+      "total_stats": 264.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Riddler",
+      "alignment": "bad",
+      "total_stats": 160.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Ripcord",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Robin II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Robin III",
+      "alignment": "good",
+      "total_stats": 262.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Robin V",
+      "alignment": "good",
+      "total_stats": 220.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Rocket Raccoon",
+      "alignment": "good",
+      "total_stats": 198.0,
+      "physical": 90.0,
+      "mentality": 0.0,
+      "energy": 10.0,
+      "power_count": 10
+    },
+    {
+      "name": "Rogue",
+      "alignment": "good",
+      "total_stats": 285.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 2
+    },
+    {
+      "name": "Rorschach",
+      "alignment": "good",
+      "total_stats": 237.0,
+      "physical": 80.0,
+      "mentality": 20.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Sabretooth",
+      "alignment": "bad",
+      "total_stats": 351.0,
+      "physical": 93.8,
+      "mentality": 0.0,
+      "energy": 6.2,
+      "power_count": 16
+    },
+    {
+      "name": "Sage",
+      "alignment": "good",
+      "total_stats": 195.0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Sandman",
+      "alignment": "neutral",
+      "total_stats": 387.0,
+      "physical": 88.9,
+      "mentality": 0.0,
+      "energy": 11.1,
+      "power_count": 9
+    },
+    {
+      "name": "Sasquatch",
+      "alignment": "good",
+      "total_stats": 291.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Savage Dragon",
+      "alignment": "good",
+      "total_stats": 393.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Scarecrow",
+      "alignment": "bad",
+      "total_stats": 215.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Scarlet Spider",
+      "alignment": "good",
+      "total_stats": 357.0,
+      "physical": 92.3,
+      "mentality": 7.7,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "Scarlet Spider II",
+      "alignment": "good",
+      "total_stats": 329.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Scarlet Witch",
+      "alignment": "bad",
+      "total_stats": 258.0,
+      "physical": 22.2,
+      "mentality": 33.3,
+      "energy": 44.4,
+      "power_count": 9
+    },
+    {
+      "name": "Scorpia",
+      "alignment": "bad",
+      "total_stats": 198.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Scorpion",
+      "alignment": "bad",
+      "total_stats": 376.0,
+      "physical": 75.0,
+      "mentality": 12.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Sentry",
+      "alignment": "good",
+      "total_stats": 448.0,
+      "physical": 60.0,
+      "mentality": 20.0,
+      "energy": 20.0,
+      "power_count": 15
+    },
+    {
+      "name": "Shadow King",
+      "alignment": "good",
+      "total_stats": 389.0,
+      "physical": 50.0,
+      "mentality": 50.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Shadowcat",
+      "alignment": "good",
+      "total_stats": 281.0,
+      "physical": 57.1,
+      "mentality": 28.6,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Shang-Chi",
+      "alignment": "good",
+      "total_stats": 280.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Shatterstar",
+      "alignment": "good",
+      "total_stats": 346.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "She-Hulk",
+      "alignment": "good",
+      "total_stats": 414.0,
+      "physical": 87.5,
+      "mentality": 12.5,
+      "energy": 0.0,
+      "power_count": 8
+    },
+    {
+      "name": "She-Thing",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 6
+    },
+    {
+      "name": "Shocker",
+      "alignment": "bad",
+      "total_stats": 285.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 4
+    },
+    {
+      "name": "Shriek",
+      "alignment": "good",
+      "total_stats": 198.0,
+      "physical": 0.0,
+      "mentality": 50.0,
+      "energy": 50.0,
+      "power_count": 6
+    },
+    {
+      "name": "Sif",
+      "alignment": "good",
+      "total_stats": 273.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 9
+    },
+    {
+      "name": "Silk Spectre II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Silver Surfer",
+      "alignment": "good",
+      "total_stats": 480.0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 15
+    },
+    {
+      "name": "Silverclaw",
+      "alignment": "good",
+      "total_stats": 231.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Sinestro",
+      "alignment": "bad",
+      "total_stats": 428.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 8
+    },
+    {
+      "name": "Siren",
+      "alignment": "bad",
+      "total_stats": 157.0,
+      "physical": 72.7,
+      "mentality": 9.1,
+      "energy": 18.2,
+      "power_count": 11
+    },
+    {
+      "name": "Siren II",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 75.0,
+      "mentality": 25.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Siryn",
+      "alignment": "bad",
+      "total_stats": 213.0,
+      "physical": 33.3,
+      "mentality": 33.3,
+      "energy": 33.3,
+      "power_count": 3
+    },
+    {
+      "name": "Skaar",
+      "alignment": "good",
+      "total_stats": 399.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Snowbird",
+      "alignment": "good",
+      "total_stats": 266.0,
+      "physical": 75.0,
+      "mentality": 12.5,
+      "energy": 12.5,
+      "power_count": 8
+    },
+    {
+      "name": "Sobek",
+      "alignment": "good",
+      "total_stats": 229.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 2
+    },
+    {
+      "name": "Solomon Grundy",
+      "alignment": "bad",
+      "total_stats": 323.0,
+      "physical": 60.0,
+      "mentality": 0.0,
+      "energy": 40.0,
+      "power_count": 10
+    },
+    {
+      "name": "Songbird",
+      "alignment": "good",
+      "total_stats": 291.0,
+      "physical": 71.4,
+      "mentality": 14.3,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Space Ghost",
+      "alignment": "good",
+      "total_stats": 299.0,
+      "physical": 60.0,
+      "mentality": 10.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Spawn",
+      "alignment": "good",
+      "total_stats": 470.0,
+      "physical": 63.6,
+      "mentality": 18.2,
+      "energy": 18.2,
+      "power_count": 11
+    },
+    {
+      "name": "Spectre",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 37.9,
+      "mentality": 20.7,
+      "energy": 41.4,
+      "power_count": 29
+    },
+    {
+      "name": "Speedball",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 33.3,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Speedy",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Spider-Girl",
+      "alignment": "good",
+      "total_stats": 347.0,
+      "physical": 84.6,
+      "mentality": 15.4,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "Spider-Man",
+      "alignment": "good",
+      "total_stats": 420.0,
+      "physical": 93.3,
+      "mentality": 6.7,
+      "energy": 0.0,
+      "power_count": 15
+    },
+    {
+      "name": "Spider-Woman",
+      "alignment": "good",
+      "total_stats": 280.0,
+      "physical": 77.8,
+      "mentality": 0.0,
+      "energy": 22.2,
+      "power_count": 9
+    },
+    {
+      "name": "Spider-Woman III",
+      "alignment": "good",
+      "total_stats": 255.0,
+      "physical": 62.5,
+      "mentality": 12.5,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Spider-Woman IV",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 33.3,
+      "mentality": 33.3,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Spyke",
+      "alignment": "good",
+      "total_stats": 210.0,
+      "physical": 83.3,
+      "mentality": 0.0,
+      "energy": 16.7,
+      "power_count": 6
+    },
+    {
+      "name": "Stardust",
+      "alignment": "good",
+      "total_stats": 568.0,
+      "physical": 45.5,
+      "mentality": 0.0,
+      "energy": 54.5,
+      "power_count": 11
+    },
+    {
+      "name": "Starfire",
+      "alignment": "good",
+      "total_stats": 377.0,
+      "physical": 42.9,
+      "mentality": 14.3,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Stargirl",
+      "alignment": "good",
+      "total_stats": 334.0,
+      "physical": 41.7,
+      "mentality": 0.0,
+      "energy": 58.3,
+      "power_count": 12
+    },
+    {
+      "name": "Steel",
+      "alignment": "good",
+      "total_stats": 434.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 8
+    },
+    {
+      "name": "Stephanie Powell",
+      "alignment": "good",
+      "total_stats": 170.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Storm",
+      "alignment": "good",
+      "total_stats": 325.0,
+      "physical": 30.0,
+      "mentality": 30.0,
+      "energy": 40.0,
+      "power_count": 10
+    },
+    {
+      "name": "Sunspot",
+      "alignment": "good",
+      "total_stats": 335.0,
+      "physical": 38.5,
+      "mentality": 0.0,
+      "energy": 61.5,
+      "power_count": 13
+    },
+    {
+      "name": "Superboy",
+      "alignment": "good",
+      "total_stats": 487.0,
+      "physical": 70.0,
+      "mentality": 0.0,
+      "energy": 30.0,
+      "power_count": 10
+    },
+    {
+      "name": "Superboy-Prime",
+      "alignment": "bad",
+      "total_stats": 579.0,
+      "physical": 62.5,
+      "mentality": 18.8,
+      "energy": 18.8,
+      "power_count": 16
+    },
+    {
+      "name": "Supergirl",
+      "alignment": "good",
+      "total_stats": 544.0,
+      "physical": 65.0,
+      "mentality": 15.0,
+      "energy": 20.0,
+      "power_count": 20
+    },
+    {
+      "name": "Superman",
+      "alignment": "good",
+      "total_stats": 579.0,
+      "physical": 65.4,
+      "mentality": 11.5,
+      "energy": 23.1,
+      "power_count": 26
+    },
+    {
+      "name": "Swamp Thing",
+      "alignment": "bad",
+      "total_stats": 413.0,
+      "physical": 50.0,
+      "mentality": 25.0,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Sylar",
+      "alignment": "bad",
+      "total_stats": 272.0,
+      "physical": 14.3,
+      "mentality": 57.1,
+      "energy": 28.6,
+      "power_count": 7
+    },
+    {
+      "name": "Synch",
+      "alignment": "good",
+      "total_stats": 323.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Tempest",
+      "alignment": "good",
+      "total_stats": 243.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 4
+    },
+    {
+      "name": "Thanos",
+      "alignment": "bad",
+      "total_stats": 485.0,
+      "physical": 52.2,
+      "mentality": 17.4,
+      "energy": 30.4,
+      "power_count": 23
+    },
+    {
+      "name": "The Cape",
+      "alignment": "good",
+      "total_stats": 189.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "The Comedian",
+      "alignment": "neutral",
+      "total_stats": 196.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Thing",
+      "alignment": "good",
+      "total_stats": 376.0,
+      "physical": 75.0,
+      "mentality": 0.0,
+      "energy": 25.0,
+      "power_count": 12
+    },
+    {
+      "name": "Thor",
+      "alignment": "good",
+      "total_stats": 546.0,
+      "physical": 71.4,
+      "mentality": 0.0,
+      "energy": 28.6,
+      "power_count": 14
+    },
+    {
+      "name": "Thor Girl",
+      "alignment": "good",
+      "total_stats": 482.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Thunderbird",
+      "alignment": "good",
+      "total_stats": 225.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Thunderbird III",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 25.0,
+      "mentality": 0.0,
+      "energy": 75.0,
+      "power_count": 4
+    },
+    {
+      "name": "Thunderstrike",
+      "alignment": "good",
+      "total_stats": 400.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Thundra",
+      "alignment": "good",
+      "total_stats": 295.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Tiger Shark",
+      "alignment": "bad",
+      "total_stats": 271.0,
+      "physical": 92.9,
+      "mentality": 0.0,
+      "energy": 7.1,
+      "power_count": 14
+    },
+    {
+      "name": "Tigra",
+      "alignment": "good",
+      "total_stats": 309.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Tinkerer",
+      "alignment": "bad",
+      "total_stats": 171.0,
+      "physical": 0.0,
+      "mentality": 100.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Titan",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 2
+    },
+    {
+      "name": "Toad",
+      "alignment": "neutral",
+      "total_stats": 275.0,
+      "physical": 91.7,
+      "mentality": 8.3,
+      "energy": 0.0,
+      "power_count": 12
+    },
+    {
+      "name": "Toxin",
+      "alignment": "good",
+      "total_stats": 428.0,
+      "physical": 92.3,
+      "mentality": 7.7,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "Tracy Strauss",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 3
+    },
+    {
+      "name": "Trickster",
+      "alignment": "",
+      "total_stats": 0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Triplicate Girl",
+      "alignment": "good",
+      "total_stats": 224.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Ultragirl",
+      "alignment": "good",
+      "total_stats": 350.0,
+      "physical": 85.7,
+      "mentality": 0.0,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Ultron",
+      "alignment": "bad",
+      "total_stats": 477.0,
+      "physical": 41.2,
+      "mentality": 11.8,
+      "energy": 47.1,
+      "power_count": 17
+    },
+    {
+      "name": "Utgard-Loki",
+      "alignment": "bad",
+      "total_stats": 373.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Valerie Hart",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "Valkyrie",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Vanisher",
+      "alignment": "bad",
+      "total_stats": 285.0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Venom",
+      "alignment": "bad",
+      "total_stats": 444.0,
+      "physical": 90.0,
+      "mentality": 10.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Venom II",
+      "alignment": "bad",
+      "total_stats": 334.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 6
+    },
+    {
+      "name": "Venom III",
+      "alignment": "bad",
+      "total_stats": 383.0,
+      "physical": 90.0,
+      "mentality": 10.0,
+      "energy": 0.0,
+      "power_count": 10
+    },
+    {
+      "name": "Vertigo II",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 0,
+      "mentality": 0,
+      "energy": 0,
+      "power_count": 0
+    },
+    {
+      "name": "Vindicator",
+      "alignment": "good",
+      "total_stats": 0,
+      "physical": 14.3,
+      "mentality": 0.0,
+      "energy": 85.7,
+      "power_count": 7
+    },
+    {
+      "name": "Violator",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 66.7,
+      "mentality": 33.3,
+      "energy": 0.0,
+      "power_count": 3
+    },
+    {
+      "name": "Vision",
+      "alignment": "good",
+      "total_stats": 467.0,
+      "physical": 66.7,
+      "mentality": 11.1,
+      "energy": 22.2,
+      "power_count": 18
+    },
+    {
+      "name": "Vulture",
+      "alignment": "bad",
+      "total_stats": 284.0,
+      "physical": 57.1,
+      "mentality": 0.0,
+      "energy": 42.9,
+      "power_count": 7
+    },
+    {
+      "name": "Walrus",
+      "alignment": "bad",
+      "total_stats": 167.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 4
+    },
+    {
+      "name": "War Machine",
+      "alignment": "good",
+      "total_stats": 491.0,
+      "physical": 50.0,
+      "mentality": 0.0,
+      "energy": 50.0,
+      "power_count": 12
+    },
+    {
+      "name": "Warlock",
+      "alignment": "good",
+      "total_stats": 464.0,
+      "physical": 62.5,
+      "mentality": 0.0,
+      "energy": 37.5,
+      "power_count": 8
+    },
+    {
+      "name": "Warp",
+      "alignment": "bad",
+      "total_stats": 212.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 1
+    },
+    {
+      "name": "Warpath",
+      "alignment": "good",
+      "total_stats": 337.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 10
+    },
+    {
+      "name": "Wasp",
+      "alignment": "good",
+      "total_stats": 246.0,
+      "physical": 62.5,
+      "mentality": 12.5,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Watcher",
+      "alignment": "good",
+      "total_stats": 492.0,
+      "physical": 27.3,
+      "mentality": 54.5,
+      "energy": 18.2,
+      "power_count": 11
+    },
+    {
+      "name": "Weapon XI",
+      "alignment": "bad",
+      "total_stats": 0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Wildfire",
+      "alignment": "good",
+      "total_stats": 324.0,
+      "physical": 33.3,
+      "mentality": 0.0,
+      "energy": 66.7,
+      "power_count": 6
+    },
+    {
+      "name": "Winter Soldier",
+      "alignment": "good",
+      "total_stats": 332.0,
+      "physical": 80.0,
+      "mentality": 0.0,
+      "energy": 20.0,
+      "power_count": 5
+    },
+    {
+      "name": "Wolfsbane",
+      "alignment": "good",
+      "total_stats": 199.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 5
+    },
+    {
+      "name": "Wolverine",
+      "alignment": "good",
+      "total_stats": 369.0,
+      "physical": 88.2,
+      "mentality": 5.9,
+      "energy": 5.9,
+      "power_count": 17
+    },
+    {
+      "name": "Wonder Girl",
+      "alignment": "good",
+      "total_stats": 369.0,
+      "physical": 62.5,
+      "mentality": 12.5,
+      "energy": 25.0,
+      "power_count": 8
+    },
+    {
+      "name": "Wonder Man",
+      "alignment": "good",
+      "total_stats": 446.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 9
+    },
+    {
+      "name": "Wonder Woman",
+      "alignment": "good",
+      "total_stats": 480.0,
+      "physical": 65.0,
+      "mentality": 25.0,
+      "energy": 10.0,
+      "power_count": 20
+    },
+    {
+      "name": "X-23",
+      "alignment": "good",
+      "total_stats": 336.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 13
+    },
+    {
+      "name": "X-Man",
+      "alignment": "good",
+      "total_stats": 465.0,
+      "physical": 28.6,
+      "mentality": 57.1,
+      "energy": 14.3,
+      "power_count": 7
+    },
+    {
+      "name": "Yellowjacket",
+      "alignment": "good",
+      "total_stats": 164.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    },
+    {
+      "name": "Yellowjacket II",
+      "alignment": "good",
+      "total_stats": 182.0,
+      "physical": 0.0,
+      "mentality": 0.0,
+      "energy": 100.0,
+      "power_count": 2
+    },
+    {
+      "name": "Ymir",
+      "alignment": "good",
+      "total_stats": 388.0,
+      "physical": 66.7,
+      "mentality": 0.0,
+      "energy": 33.3,
+      "power_count": 6
+    },
+    {
+      "name": "Zatanna",
+      "alignment": "good",
+      "total_stats": 292.0,
+      "physical": 0.0,
+      "mentality": 33.3,
+      "energy": 66.7,
+      "power_count": 6
+    },
+    {
+      "name": "Zoom",
+      "alignment": "bad",
+      "total_stats": 288.0,
+      "physical": 100.0,
+      "mentality": 0.0,
+      "energy": 0.0,
+      "power_count": 1
+    }
+  ],
+  "balanced_teams": {
+    "physical_heavy": [
+      {
+        "name": "Martian Manhunter",
+        "physical": 61.9,
+        "mentality": 28.6,
+        "energy": 9.5,
+        "power_count": 21
+      },
+      {
+        "name": "General Zod",
+        "physical": 71.4,
+        "mentality": 14.3,
+        "energy": 14.3,
+        "power_count": 14
+      },
+      {
+        "name": "Superboy-Prime",
+        "physical": 62.5,
+        "mentality": 18.8,
+        "energy": 18.8,
+        "power_count": 16
+      },
+      {
+        "name": "Superman",
+        "physical": 65.4,
+        "mentality": 11.5,
+        "energy": 23.1,
+        "power_count": 26
+      },
+      {
+        "name": "Amazo",
+        "physical": 55.6,
+        "mentality": 11.1,
+        "energy": 33.3,
+        "power_count": 27
+      },
+      {
+        "name": "Galactus",
+        "physical": 44.4,
+        "mentality": 16.7,
+        "energy": 38.9,
+        "power_count": 18
+      }
+    ],
+    "mentality_heavy": [
+      {
+        "name": "Jean Grey",
+        "physical": 0.0,
+        "mentality": 66.7,
+        "energy": 33.3,
+        "power_count": 9
+      },
+      {
+        "name": "Phoenix",
+        "physical": 15.4,
+        "mentality": 46.2,
+        "energy": 38.5,
+        "power_count": 13
+      },
+      {
+        "name": "Onslaught",
+        "physical": 25.0,
+        "mentality": 58.3,
+        "energy": 16.7,
+        "power_count": 12
+      },
+      {
+        "name": "Watcher",
+        "physical": 27.3,
+        "mentality": 54.5,
+        "energy": 18.2,
+        "power_count": 11
+      },
+      {
+        "name": "X-Man",
+        "physical": 28.6,
+        "mentality": 57.1,
+        "energy": 14.3,
+        "power_count": 7
+      },
+      {
+        "name": "Brainiac",
+        "physical": 33.3,
+        "mentality": 44.4,
+        "energy": 22.2,
+        "power_count": 9
+      }
+    ],
+    "energy_heavy": [
+      {
+        "name": "Stardust",
+        "physical": 45.5,
+        "mentality": 0.0,
+        "energy": 54.5,
+        "power_count": 11
+      },
+      {
+        "name": "Nova",
+        "physical": 45.0,
+        "mentality": 0.0,
+        "energy": 55.0,
+        "power_count": 20
+      },
+      {
+        "name": "Magus",
+        "physical": 33.3,
+        "mentality": 16.7,
+        "energy": 50.0,
+        "power_count": 6
+      },
+      {
+        "name": "Fallen One II",
+        "physical": 40.0,
+        "mentality": 13.3,
+        "energy": 46.7,
+        "power_count": 15
+      },
+      {
+        "name": "Anti-Monitor",
+        "physical": 33.3,
+        "mentality": 13.3,
+        "energy": 53.3,
+        "power_count": 15
+      },
+      {
+        "name": "Ultron",
+        "physical": 41.2,
+        "mentality": 11.8,
+        "energy": 47.1,
+        "power_count": 17
+      }
+    ],
+    "balanced": [
+      {
+        "name": "Animal Man",
+        "physical": 40.0,
+        "mentality": 40.0,
+        "energy": 20.0,
+        "power_count": 5
+      },
+      {
+        "name": "Iron Monger",
+        "physical": 40.0,
+        "mentality": 20.0,
+        "energy": 40.0,
+        "power_count": 5
+      },
+      {
+        "name": "Doctor Fate",
+        "physical": 38.5,
+        "mentality": 30.8,
+        "energy": 30.8,
+        "power_count": 13
+      },
+      {
+        "name": "Storm",
+        "physical": 30.0,
+        "mentality": 30.0,
+        "energy": 40.0,
+        "power_count": 10
+      },
+      {
+        "name": "Metron",
+        "physical": 33.3,
+        "mentality": 33.3,
+        "energy": 33.3,
+        "power_count": 3
+      },
+      {
+        "name": "Siryn",
+        "physical": 33.3,
+        "mentality": 33.3,
+        "energy": 33.3,
+        "power_count": 3
+      }
+    ]
+  }
+}

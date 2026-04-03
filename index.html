@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hero Network - Interactive Visualization</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0f0f14;
+      margin: 0;
+      padding: 0;
+    }
+    
+    #p5-container {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+    
+    canvas {
+      display: block !important;
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      z-index: 1 !important;
+    }
+    
+    /* 정보 패널 (선택) */
+    .info-panel {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 15px 20px;
+      border-radius: 8px;
+      max-width: 300px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      font-size: 14px;
+      z-index: 100;
+      backdrop-filter: blur(10px);
+    }
+    
+    .info-panel h3 {
+      margin-bottom: 10px;
+      color: #333;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    
+    .info-panel p {
+      color: #666;
+      line-height: 1.5;
+      margin-bottom: 8px;
+    }
+    
+    /* 제어 패널 (선택) */
+    .control-panel {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 15px 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      z-index: 100;
+      backdrop-filter: blur(10px);
+    }
+    
+    .control-panel h3 {
+      margin-bottom: 10px;
+      color: #333;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    
+    .control-panel button {
+      display: block;
+      width: 100%;
+      padding: 8px 12px;
+      margin-bottom: 8px;
+      background: #667eea;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 500;
+      transition: background 0.3s;
+    }
+    
+    .control-panel button:hover {
+      background: #764ba2;
+    }
+    
+    .control-panel input {
+      width: 100%;
+      padding: 6px 8px;
+      margin-bottom: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="p5-container"></div>
+  
+  <!-- 정보 패널 (선택) -->
+  <div class="info-panel" id="infoPanel">
+    <h3>Hero Network</h3>
+    <p id="heroCount">Loading...</p>
+    <p id="edgeCount">Loading...</p>
+    <p style="font-size: 12px; color: #999; margin-top: 10px;">
+      마우스로 네트워크를 탐색하세요
+    </p>
+  </div>
+
+  <script src="HeroNetwork.js"></script>
+  <script src="sketch.js"></script>
+</body>
+</html>
